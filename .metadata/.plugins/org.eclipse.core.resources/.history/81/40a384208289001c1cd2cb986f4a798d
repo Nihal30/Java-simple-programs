@@ -1,0 +1,16 @@
+package apa;
+
+
+
+public class checkPolly {
+	public class polly{
+			
+				public static void main(String arg[]) {
+					Housearc ha;
+					ha = new appartment();
+					System.out.println("price of app "+ String.format("%f",ha.getPrice()));
+					
+				}
+	}
+}
+			
